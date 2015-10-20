@@ -229,5 +229,7 @@ void Finalize()
 	TTF_CloseFont(hsFont);
 	HighScoresFree();
 	InputFree();
+	SDL_DestroyRenderer();
+	SDL_DestroyWindow();
 	SDL_Quit();
 }
