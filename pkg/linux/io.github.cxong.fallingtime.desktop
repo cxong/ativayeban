@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Falling Time
+GenericName=Vertical sidescroller
+Comment=Vertical sidescroller for 1 or 2 players rolling down platforms
+Exec=fallingtime
+Icon=fallingtime
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
