@@ -3,6 +3,7 @@ falling_time
 falling_time.opk
 .opk_data/
 libchipmunk.a
+sys_config.h
 
 # CMake
 _CPack_Packages/
